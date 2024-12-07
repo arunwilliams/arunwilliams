@@ -1,4 +1,4 @@
-Here’s a filled-out version of your profile related to cyber security:
+
 
 - 👋 Hi, I’m @arunwilliams
 - 👀 I’m interested in **cyber security, ethical hacking, network security, and data protection.**
