@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on **cyber security research projects, building secure applications, and improving organizational security posture.**
 - 📫 How to reach me **via email at aruntw@proton.me**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Technology is really fun **
+- ⚡ Fun fact: **Internet Playground**
 
 <!---
 arunwilliams/arunwilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
